@@ -52,7 +52,7 @@ async def start(bot, update):
     ],[
         InlineKeyboardButton('🔰Movie Request🔰', url='https://t.me/KOT_MOVIES_DISSECTION')
     ],[
-        InlineKeyboardButton('😇OUR MAIN CHANNEL😇', url='https://t.me/KING_OF_THE_CARTOONS_CHANNEL)
+        InlineKeyboardButton('😇OUR MAIN CHANNEL😇', url='https://t.me/KING_OF_THE_CARTOONS_CHANNEL')
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
